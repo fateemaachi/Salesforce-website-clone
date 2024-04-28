@@ -883,7 +883,7 @@ body{
     cursor: pointer;
   }
   .grand-container10{
-    width: 66%;
+    width: 65%;
     margin-left: 334px;
     display: flex;
     justify-content: space-between;
@@ -891,16 +891,17 @@ body{
     margin-bottom: 130px;
   }
   .sub-container10{
-   width: 90%;
+   width: 80%;
   }
   .sub-container10 img{
-    width: 75%;
+    width: 560px;
+    margin-left: -250px;
   }
   .salesforce-info{
-    width: 63%;
+    width: 525px;
   }
   .salesforce-info h2{
-    width: 75%;
+    width: 560px;
     margin-top: 20px;
     margin-bottom: 30px;
     color: #032d60;
@@ -946,7 +947,7 @@ body{
     gap: 40px;
     }
     .sub-container11{
-    width: 325px;
+    width: 395px;
     height: 325px;
     display: flex;
     flex-direction: column;
@@ -1001,7 +1002,7 @@ body{
   .bg-img3 img{
     position: absolute;
     width: 100%;
-    margin-top: -385px;
+    margin-top: -335px;
     margin-bottom: 200px;
     z-index: -1;
   }
