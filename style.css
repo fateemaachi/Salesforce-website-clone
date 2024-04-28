@@ -446,7 +446,7 @@ body{
   gap: 60px;
 }
 .sub-container5{
-  width: 22%;
+  width: 385px;
   display: flex;
   flex-direction: column;
   flex-direction: column;
@@ -589,9 +589,8 @@ body{
   gap: 60px;
 }
 .sub-container7{
-  width: 25%;
+  width: 407px;
   display: flex;
-  flex-direction: column;
   flex-direction: column;
   justify-content: center;
   border-radius: 20px;
@@ -716,7 +715,7 @@ body{
    gap: 60px;
  }
  .sub-container8{
-   width: 25%;
+   width: 415px;
    display: flex;
    flex-direction: column;
    justify-content: center;
