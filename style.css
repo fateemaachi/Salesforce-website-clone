@@ -258,7 +258,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 40px;
+  gap: 20px;
 }
 .sub-container2{
   margin-bottom: 50px;
@@ -552,7 +552,7 @@ body{
 .sub-container6{
   margin-top: 50px;
   margin-bottom: 50px;
-  margin-left: 160px;
+  margin-left: -150px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -563,18 +563,20 @@ body{
   width: 80%;
 }
 .CRM h2{
-  font-size: 40px;
+  font-size: 35px;
   color: #032d60;
   margin-bottom: 30px;
 }
 .CRM p{
+  width: 160%;
   font-size: 17px;
   line-height: 1.5;
   color: rgb(75, 74, 74);
   margin-bottom: 45px;
 }
 .img img{
-  width: 80%;
+  margin-left: 250px;
+  width: 85%;
   border-radius: 20px;
 }
 .grand-container7{
@@ -587,7 +589,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 60px;
+  gap: 35px;
 }
 .sub-container7{
   width: 407px;
