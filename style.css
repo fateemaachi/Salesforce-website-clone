@@ -88,19 +88,20 @@ body{
   align-items: center;
 }
 .banner-content{
-  margin-left: 233px;
+  margin-left: 55px;
   margin-top: 125px;
   width: 39%;
 }
 .banner-content h1{
-  width: 69%;
+  width: 437px;
+  margin-top: -95px;
   margin-left: -57px;
   margin-bottom: 25px;
   color: #032d60;
-  font-size: 50px;
+  font-size: 45px;
 }
 .banner-content p{
-  width: 88%;
+  width: 566px;
   margin-left: -57px;
   line-height: 1.5;
   font-size: 20px;
@@ -111,9 +112,9 @@ body{
   width: 50%;
 }
 .banner-content2 img{
-  width: 100%;
-  margin-top: 97px;
-  margin-left: 14px;
+  width: 800px;
+  margin-top: 28px;
+  margin-left: -20px;
 }
 .b{
   margin-left: -57px;
